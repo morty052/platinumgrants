@@ -20,7 +20,7 @@ const DebitCard = () => {
             Receive your grant in a secure debit card
           </h2>
           <p className="text-gray-500">
-            While Applying for a grant you can opt in to receive your payment if approved through a secure debit card issued by Platinum grants.
+            While Applying for a grant you can opt in to receive your payment if approved through a secure debit card issued by Northwest grants.
           </p>
         </div>
         {/* <!-- End Title --> */}

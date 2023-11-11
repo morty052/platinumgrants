@@ -21,7 +21,7 @@ const Testimonials = () => {
         <div class="flex flex-col bg-white rounded-xl ">
           <div class="flex-auto p-4 md:p-6">
             <p class="text-base italic md:text-lg text-gray-800 ">
-              " Thanks to Platinum Grants i was finally able to afford laser eye surgery for my husband after 6 years! trying to get a regular loan. "
+              " Thanks to Northwest Grants i was finally able to afford laser eye surgery for my husband after 6 years! trying to get a regular loan. "
             </p>
           </div>
 
@@ -50,7 +50,7 @@ const Testimonials = () => {
         <div class="flex flex-col bg-white rounded-xl ">
           <div class="flex-auto p-4 md:p-6">
             <p class="text-base italic md:text-lg text-gray-800 ">
-              " After Covid my business virtually didn't exist anymore, Platinum Grants helped me get back on my feet. "
+              " After Covid my business virtually didn't exist anymore, Northwest Grants helped me get back on my feet. "
             </p>
           </div>
 

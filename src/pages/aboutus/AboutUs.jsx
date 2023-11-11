@@ -18,7 +18,7 @@ const Vision = () => {
             Dedicated to providing relief
           </h2>
           <p class="mt-3 text-gray-800 ">
-            Platinum grants was put together by our founding team in partnership with undp with one goal in mind. to provide relief to people who need it the most hence why we have a very low credit score qualification bar.
+            Northwest grants was put together by our founding team in partnership with undp with one goal in mind. to provide relief to people who need it the most hence why we have a very low credit score qualification bar.
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const Vision = () => {
             And Many Others
           </h2>
           <p class="-mt-2 text-gray-800 ">
-            Platinum Grants is always growing and constantly involving to expand our reach keep checking back if you qualify for any of our future grants.
+            Northwest Grants is always growing and constantly involving to expand our reach keep checking back if you qualify for any of our future grants.
           </p>
          </div>
           {/* <!-- End Icon Block --> */}
@@ -173,10 +173,10 @@ const Cta = () => {
   <div class="container mx-auto sm:px-6 text-center md:px-12">
     <div class="mb-16">
       <h2 class="mb-4 text-center text-2xl font-bold text-gray-800  md:text-4xl">
-        Platinum Grants leadership
+        Northwest Grants leadership
       </h2>
       <p class="text-gray-600  lg:mx-auto lg:w-8/12 sm:text-2xl text-center">
-        Our mission requires great people. <br/> meet the men and women behind Platinum grants.
+        Our mission requires great people. <br/> meet the men and women behind Northwest grants.
       </p>
     </div>
     <div class="grid gap-28 py-20 md:grid-cols-3 md:gap-12">

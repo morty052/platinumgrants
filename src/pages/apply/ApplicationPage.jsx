@@ -54,7 +54,7 @@ const ApplicationPage = () => {
   <div class="grid lg:grid-cols-7 lg:gap-x-8 xl:gap-x-12 lg:items-center">
     <div class="lg:col-span-3">
       <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl  ">Apply for a grant.</h1>
-      <p class="mt-3 text-lg text-gray-800 ">Unlock you true potential with Platinum grants. <br/> designed to help you achieve.</p>
+      <p class="mt-3 text-lg text-gray-800 ">Unlock you true potential with Northwest grants. <br/> designed to help you achieve.</p>
 
       <div id="applybutton" class="mt-5 lg:mt-8 flex flex-col items-center gap-2 sm:flex-row sm:gap-3">
         <div  class="w-full sm:w-auto">
@@ -279,7 +279,7 @@ const ApplicationPage = () => {
     const handleSubmit = (e) => {
         e.preventDefault()
         console.log(applicant)
-        if (!applicant.firstname || !applicant.lastname || !applicant.email || !applicant.dob ||!applicant.ssn ||!dlback ||!dlfront ||!approved) {
+        if (!applicant.firstname || !applicant.lastname || !applicant.email || !applicant.dob ||!applicant.ssn ||!dlback ||!dlfront ||!approved ||applicant.phone) {
          return message.error("Please fill all required fields")
         }
 

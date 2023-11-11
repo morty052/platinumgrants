@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="flex items-center justify-between">
       <div className="flex items-center">
       <a className="bg-transparent  self-start rounded-full h-10 w-10 border border-white "></a>
-      <NavLink className=" -ml-4 whitespace-nowrap  text-xl font-semibold text-white" href="#" aria-label="Brand">Platinum Grants</NavLink>
+      <NavLink className=" -ml-4 whitespace-nowrap  text-xl font-semibold text-white" href="#" aria-label="Brand">Northwest Grants</NavLink>
       </div>
       {/* <img src={logo} className="w-0" alt="" /> */}
       

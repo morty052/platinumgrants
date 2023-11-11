@@ -27,7 +27,7 @@ const ApplicationComplete = () => {
           <img src={checkmark} alt="" className="h-40 w-40" />
          </div>
         <p className="text-3xl text-center text-gray-50 my-2">Application Submitted</p>
-        <p className=" text-center text-gray-50">Keep an eye on your email {applicant?.email}, for updates on your aplication from admin@platinumgrants.com. you can also track your application by signing in using the email on your application. </p>
+        <p className=" text-center text-gray-50">Keep an eye on your email {applicant?.email}, for updates on your aplication from admin@Northwestgrants.com. you can also track your application by signing in using the email on your application. </p>
         <div className="py-4 flex justify-center">
          <NavLink to={'/login'}>
          <button className=" border border-white px-6 text-white py-2 rounded-2xl">Track Application &#8594;</button>

@@ -12,7 +12,7 @@ const CoreFeatures = () => {
         Grants Built for you.
       </h2>
       <p class="mt-3 text-gray-800 ">
-        Backed by UNDP Platinum Grants was built for people who cant afford a regular loan. with a grant you get essential funding you never have to pay back.
+        Backed by UNDP Northwest Grants was built for people who cant afford a regular loan. with a grant you get essential funding you never have to pay back.
       </p>
       <NavLink to={'/application'} className="mt-5 cursor-pointer group inline-flex items-center gap-x-2 font-medium text-blue-600 ">
         Submit application.

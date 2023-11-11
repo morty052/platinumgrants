@@ -45,7 +45,7 @@ useEffect(() => {
         {/* <a className="flex-none text-xl font-semibold text-white" href="#" aria-label="Brand">Brand</a> */}
         <div className="flex items-center">
       <a className="bg-transparent  self-start rounded-full h-10 w-10 border border-white "></a>
-      <a className=" -ml-4 whitespace-nowrap  text-base font-semibold text-white"  aria-label="Brand">Platinum Grants</a>
+      <a className=" -ml-4 whitespace-nowrap  text-base font-semibold text-white"  aria-label="Brand">Northwest Grants</a>
       </div>
       </div>
 

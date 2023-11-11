@@ -93,7 +93,7 @@ export default function Faq (){
         </button>
         <div id="hs-basic-with-title-and-arrow-stretched-collapse-four" className="hs-accordion-content hidden w-full overflow-hidden transition-[height] duration-300" aria-labelledby="hs-basic-with-title-and-arrow-stretched-heading-four">
           <p className="text-gray-800 ">
-            Platinum Grants will reach out to you via the email or phone number you provided while filling out your application.
+            Northwest Grants will reach out to you via the email or phone number you provided while filling out your application.
           </p>
         </div>
       </div>
