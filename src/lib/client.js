@@ -1,14 +1,15 @@
-import sanityClient,{createClient} from '@sanity/client';
+import sanityClient, { createClient } from "@sanity/client";
 import { useParams } from "react-router-dom";
-import imageUrlBuilder from '@sanity/image-url';
+import imageUrlBuilder from "@sanity/image-url";
 
 export const client = createClient({
-  projectId: 'nm35dlr9',
-  dataset: 'production',
-  apiVersion: '1',
+  projectId: "cefcmccg",
+  dataset: "production",
+  apiVersion: "1",
   useCdn: false,
   create: true,
-  token: 'skQP0gSE64h1pBRIJtgsHq0t97CrgeL3hs1NhnUZIhR78EbpOABCL5ov7KTLcRFvt4dVdKK307F7v52IGMN78hRzCfg8MjYaZvMIO4NqhpHqkmAJa5K6z6hYvHxOHyeGASD6ZorpcycEsl1TahKvHLNZALgU28Jkog05fqNAi3m2FZtattGk'
+  token:
+    "skSo3LUQu2pHWoCAX0CUfuYhNN8xtn2R0SJur13kj7Ukcmx5jwxB95xqCmq1wJ3koLXN0PHbRYa5Gcc5YevhhBK7gHUsQnfD2ZVYKGdmcochdXyEOophQhMlMsw5EpJ34Jr6DYArUYXAXP51uhobdtcAWa7KS4nzaMKoBwuY2OYOPPTcA22B",
 });
 
 const builder = imageUrlBuilder(client);
